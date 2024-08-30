@@ -1,2 +1,2 @@
 # 3d_lottery
-爬虫获取历次福彩3D开奖信息。
+Crawler retrieves information on previous lottery 3D draws.
